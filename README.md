@@ -2,7 +2,10 @@
 
 Projeto realizado durante a Imersão IA_ oferecida pela Alura em parceria com o Google, Maio 2024
 
-[Imersao-IA__Alura.ipynb](/[Imersão_IA_2ª_edição]_Chatbot_Aula_04.ipynb) \
+[Imersao-IA__Alura.ipynb](/[Imersão_IA_2ª_edição]_Chatbot_Aula_04.ipynb) 
+
+<br/>
+<br/>
 
 
 # AULA 04
