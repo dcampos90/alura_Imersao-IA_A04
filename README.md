@@ -5,7 +5,7 @@ Projeto realizado durante a Imersão IA_ oferecida pela Alura em parceria com o 
 [Imersao-IA__Alura.ipynb](/[Imersão_IA_2ª_edição]_Chatbot_Aula_04.ipynb) 
 
 \
-\
+
 
 # AULA 04
 ## Criando seu próprio chatbot com a Gemini API no Google Colab
